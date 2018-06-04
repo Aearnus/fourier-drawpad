@@ -1,0 +1,9 @@
+[package]
+name = "rust-fourier"
+version = "0.1.0"
+authors = ["Tyler L <tslimkemann42@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.31.0"
+rustfft = "2.0.0"
+num = "0.1.42"
